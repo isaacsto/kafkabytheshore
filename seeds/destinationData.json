@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Paris",
+        "country": "France",
+        "description": "The City of Light, the city of love",
+        "imageUrl": "./assets/paris2.jpg"
+    },
+    {
+        "name": "Tokyo",
+        "country": "Japan",
+        "description": "The world's most populous metropolis",
+        "imageUrl": "./assets/tokyo.jpg"
+    },
+    {
+        "name": "Sydney",
+        "country": "Australia",
+        "description": "The largest city in Australia",
+        "imageUrl": "./assets/sydney.jpg"
+    },
+    {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "description": "A city with stunning beaches, and a vibrant culture",
+        "imageUrl": "./assets/rio.jpg"
+    },
+    {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "description": "A coastal city with breathtaking scenery, diverse wildlife, and rich history",
+        "imageUrl": "./assets/southafrica.jpg"
+    },
+    {
+        "name": "Bali",
+        "country": "Indonesia",
+        "description": "A tropical paradise with beautiful beaches, lush forests, and ancient temples",
+        "imageUrl": "./assets/temple.jpg"
+    },
+    {
+        "name": "New York City",
+        "country": "United States",
+        "description": "The city that never sleeps, with iconic landmarks, world-class museums, and a vibrant food scene",
+        "imageUrl": "./assets/manhattan.jpg"
+    },
+    {
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "description": "A charming city with beautiful canals, historic architecture, and a laid-back culture",
+        "imageUrl": "./assets/amsterdam.jpg"
+    },
+    {
+        "name": "Barcelona",
+        "country": "Spain",
+        "description": "A vibrant city with stunning architecture, beautiful beaches, and a rich history",
+        "imageUrl": "./assets/barcelona.jpg"
+    },
+    {
+        "name": "Bangkok",
+        "country": "Thailand",
+        "description": "A bustling city with an amazing street-food culture",
+        "imageUrl": "./assets/bangkok.jpg"
+    },
+    {
+        "name": "Santorini",
+        "country": "Greece",
+        "description": "A stunning island with picturesque white-washed buildings, beautiful beaches, and a romantic atmosphere",
+        "imageUrl": "./assets/greece.jpg"
+    },
+    {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "description": "A modern metropolis with iconic skyscrapers, luxurious shopping, and a vibrant nightlife",
+        "imageUrl": "./assets/dubai.jpg"
+    },
+    {
+        "name": "Havana",
+        "country": "Cuba",
+        "description": "A city with a rich history, vibrant culture, and colorful buildings",
+        "imageUrl": "./assets/cuba.jpg"
+    },
+    {
+        "name": "Marrakech",
+        "country": "Morocco",
+        "description": "A vibrant city with beautiful architecture, bustling markets, and a rich history",
+        "imageUrl": "./assets/morocco.jpg"
+    },
+    {
+        "name": "Agra",
+        "country": "India",
+        "description": "Home to the iconic Taj Mahal, one of the world's most beautiful monuments",
+        "imageUrl": "./assets/india.jpg"
+    },
+    {
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "description": "A charming city with beautiful scenery, hot springs, and a unique culture",
+        "imageUrl": "./assets/iceland.jpg"
+    }
+]

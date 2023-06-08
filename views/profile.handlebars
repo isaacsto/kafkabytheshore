@@ -1,0 +1,47 @@
+<body>
+<section class="profile-body">
+<h1 class="profile-title">Profile</h1>
+
+        <div class="profile-img-area">
+          <img src="" alt="" />
+          </div>
+            <h1 class="upload-header">Upload Profile Picture</h1>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <input type="file" name="profilePicture" accept="image/*" required>
+        <button class="btn btn-primary custom-btn" type="submit">Upload</button>
+    </form>
+
+        <form id="input-area">
+
+          <div class="input-wrapper">
+            <label class="profile-input">First Name</label>
+            <input type="text" />
+          </div>
+          <div class="input-wrapper">
+            <label class="profile-input">Last Name</label>
+            <input type="text" />
+          </div>
+          <div class="input-wrapper">
+            <label class="profile-input">Email</label>
+            <input type="text" />
+          </div>
+          <div class="input-wrapper">
+            <label class="profile-input">Phone</label>
+            <input type="text" />
+          </div>
+
+          <div class="input-wrapper address">
+            <label class="profile-input">Address</label>
+             <input type="text"/>
+          </div>
+
+          <button class="btn btn-primary custom-btn" id="save-btn" type="button">Save</button>
+      
+        </form>
+      
+</section>
+        <script src="/js/profile-pic.js"></script>
+      {{!--   <script src="/js/profile.js"></script> --}}
+
+          
+</body>
